@@ -2054,7 +2054,7 @@ button,
   @media screen and (max-width: 736px) {
     #sidebar .toggle {
       text-indent: 7.25em;
-      width: 7.25em; }
+      width: 5.25em; }
       #sidebar .toggle:before {
         color: #7f888f;
         margin-left: -0.0625em;
@@ -2069,7 +2069,7 @@ button,
         left: 1em;
         position: absolute;
         top: 1em;
-        width: 5em; } }
+        width: 3em; } }
 
 /* Header */
 #header {
@@ -2101,6 +2101,7 @@ button,
       padding-top: 6.5em; }
       #header .logo {
         font-size: 1.25em;
+        padding-left: 6%;
         margin: 0; }
       #header .icons {
         height: 5em;
